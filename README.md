@@ -23,8 +23,7 @@ Diabetes is a major health concern affecting millions of people worldwide. This 
 ## Data Sources
 
 The data used in this project comes from reliable sources, including:
-- [Diabetes Data Source 1](#)
-- [Diabetes Data Source 2](#)
+- [Diabetes Data Source 1](diabetes_dataset.xlsx)
 
 These datasets include information such as demographic details, medical history, and diabetes-related metrics.
 
@@ -35,21 +34,20 @@ The key metrics analyzed in this project include:
 - Gender-wise distribution of diabetes
 - Regional trends in diabetes prevalence
 - Risk factors associated with diabetes
-- Impact of lifestyle factors on diabetes
 
 ## Dashboard Overview
 
 ### Screenshot 1: Overview Page
 - Provides a summary of the key metrics related to diabetes prevalence and trends.
-- Visualizations include bar charts, line graphs, and pie charts to depict data clearly and concisely.
+- Visualizations include bar charts,map, and donut charts to depict data clearly and concisely.
 
 ### Screenshot 2: Demographics Page
 - Focuses on the demographic distribution of diabetes.
-- Visualizations include age-wise and gender-wise breakdowns.
+- Visualizations include age-wise and disease-wise breakdowns.
 
 ### Screenshot 3: Risk Factors Page
 - Analyzes the various risk factors associated with diabetes.
-- Visualizations include scatter plots and heat maps to identify correlations.
+- Visualizations include bar plots with Average Glucose and BMI to identify correlations.
 
 ## Installation and Setup
 
@@ -75,10 +73,6 @@ To view and interact with the Power BI dashboard, follow these steps:
 - Gender-wise analysis shows a higher prevalence of diabetes among males/females (depending on data).
 - Age-wise distribution indicates higher risk in older age groups.
 
-### Risk Factors
-- Correlation between lifestyle factors (e.g., diet, exercise) and diabetes prevalence.
-- Identification of high-risk groups based on demographic and lifestyle data.
-
 ## Future Work
 
 The following areas are suggested for future enhancement:
@@ -87,10 +81,6 @@ The following areas are suggested for future enhancement:
 3. **Real-Time Data Updates:** Integrating with real-time data sources for up-to-date insights.
 4. **User Feedback Integration:** Collecting and incorporating user feedback to improve the dashboard’s usability and accuracy.
 
-## References
-
-1. [Diabetes Data Source 1](#)
-2. [Diabetes Data Source 2](#)
 
 
 
